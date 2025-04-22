@@ -10,3 +10,10 @@ This project performs Exploratory Data Analysis (EDA) on a crime dataset using P
 - Analysis of victim demographics
 - Geographical crime distribution
 - Temporal crime analysis
+
+## Dependencies
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
