@@ -50,3 +50,13 @@ The script performs the following data cleaning steps:
 ## Output
 
 The script generates multiple visualizations and saves the cleaned dataset as 'cleaned_crime_data.csv'.
+
+
+## Usage
+
+1. Ensure all required dependencies are installed
+2. Place your 'Crime_Dataset.csv' in the project directory
+3. Run the script:
+```python
+python eda_project.py
+```
