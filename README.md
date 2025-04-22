@@ -46,3 +46,7 @@ The script performs the following data cleaning steps:
 
 4. **Geographic Analysis**
    - Top 10 areas with highest crime rates
+
+## Output
+
+The script generates multiple visualizations and saves the cleaned dataset as 'cleaned_crime_data.csv'.
