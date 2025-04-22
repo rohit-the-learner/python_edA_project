@@ -28,3 +28,21 @@ The script performs the following data cleaning steps:
 - Removes duplicates
 - Filters invalid age entries
 - Validates victim gender data
+
+
+## Visualizations
+
+1. **Temporal Analysis**
+   - Crime distribution by hour
+   - Crimes per year
+
+2. **Crime Categories**
+   - Top 10 types of crimes
+   - Weapon usage patterns
+
+3. **Victim Demographics**
+   - Age distribution
+   - Gender distribution
+
+4. **Geographic Analysis**
+   - Top 10 areas with highest crime rates
