@@ -17,3 +17,14 @@ This project performs Exploratory Data Analysis (EDA) on a crime dataset using P
 - numpy
 - matplotlib
 - seaborn
+
+## Data Processing
+
+The script performs the following data cleaning steps:
+- Standardizes column names
+- Converts dates to datetime format
+- Extracts year, month, and hour information
+- Removes invalid coordinates
+- Removes duplicates
+- Filters invalid age entries
+- Validates victim gender data
